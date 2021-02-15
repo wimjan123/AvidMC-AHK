@@ -1,5 +1,7 @@
 
 
 ^!x::
-
-Send ^n
+Send +f
+Send {Down}
+Send ^U
+Send ^U
