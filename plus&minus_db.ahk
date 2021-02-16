@@ -1,0 +1,4 @@
+
+PgUp::
+Send !+{Down}
+return
